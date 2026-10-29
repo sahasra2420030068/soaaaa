@@ -1,0 +1,6 @@
+{
+  "name": "Accessible Learning Format Request (SOA-S09-T17)",
+  "description": "Frontend-only SOA business workflow simulation for accessible learning format requests, conversion pipelines, and learner acceptance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
